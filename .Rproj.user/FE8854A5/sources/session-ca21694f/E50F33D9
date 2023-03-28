@@ -3,7 +3,7 @@
     "path": "~/p14/p14.qmd",
     "project_path": "p14.qmd",
     "type": "quarto_markdown",
-    "hash": "4075473241",
+    "hash": "481749575",
     "contents": "",
     "dirty": false,
     "created": 1679884823326.0,
@@ -13,15 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,21",
-        "scrollLine": "0"
+        "cursorPosition": "120,144",
+        "scrollLine": "107",
+        "chunk_output_type": "console"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679884868,
+    "lastKnownWriteTime": 1680013804,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679884868297,
+    "last_content_update": 1680013804382,
     "read_only": false,
     "read_only_alternatives": []
 }
